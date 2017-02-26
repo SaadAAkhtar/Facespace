@@ -1,1 +1,3 @@
 # Facespace
+
+Facespace was a small project I did during college in collaboration with a partner. The goal of the project was to implement an adjacency matrix in order to maintian a network of friends similar to Facebook (hence the knock-off name "Facespace"). The program is run through "Facespace_run" and utilizes the other 2 classes, "Facespace" and "AdjMatrixGraph", in order to run properly. I wrote the code for adding a friend, removing a friend, and finding the shortest path in "Facespace_run" as well as the Addfriend, Removefriend, and Shortest methods in "Facespace". I also edited the code for "Facespace_run" and "Facespace" in order to make the user interface easier to use and to make it easier to read with regards to organization and comments.
